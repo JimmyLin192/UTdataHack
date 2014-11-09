@@ -1,9 +1,7 @@
 UTdataHack (XDDDD TEAM)
 ======================
 
-This repository contains informations and resources of our team in UT dataHack competition. 
-
-See the main page of [this competition](http://www.mccombs.utexas.edu/Business-Analytics/Industry-Involvement/dataHACK%20UT).
+This repository contains informations and resources employed by our team in [UT dataHack competition](http://www.mccombs.utexas.edu/Business-Analytics/Industry-Involvement/dataHACK%20UT). 
 
 #####Basic Information
 
@@ -13,9 +11,9 @@ See the main page of [this competition](http://www.mccombs.utexas.edu/Business-A
 
 #####Team Members
 
-    Jimmy Lin <jimmylin@cs.utexas.edu>*
-    Hsiang-Fu Yu <rofuyu@cs.utexas.edu>
-    Zhong Kai <zhongkai@ices.utexas.edu>
-    Ian Yen <ianyen@cs.utexas.edu> 
+        Jimmy Lin <jimmylin@cs.utexas.edu>*
+        Hsiang-Fu Yu <rofuyu@cs.utexas.edu>
+        Zhong Kai <zhongkai@ices.utexas.edu>
+        Ian Yen <ianyen@cs.utexas.edu> 
 
 #####Result
