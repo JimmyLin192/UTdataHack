@@ -5,17 +5,11 @@ This repository contains informations and resources of our team in UT dataHack c
 
 See the main page of [this competition](http://www.mccombs.utexas.edu/Business-Analytics/Industry-Involvement/dataHACK%20UT).
 
-#####Name of Team:
+#####Basic Information
 
-        XDDDD Team
-
-#####Location of Competition: 
-
-        UT Austin McComb School
-
-#####Date of Competition: 
-
-        November 14. 2014 
+        Location: UT Austin McComb School
+        Date: November 14. 2014 
+        Team Name: XDDDD Team
 
 #####Team Members
 
